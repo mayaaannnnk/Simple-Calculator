@@ -77,9 +77,10 @@ body{
 #equal{
     width: 39%;
     color: aquamarine;
+    font-size: x-large;
 }
 .row1 :nth-child(1){
-    color: aquamarine;
+    color: rgb(255, 50, 50);
 }
 .row1 :nth-child(2){
     color: aquamarine;
